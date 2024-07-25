@@ -1,0 +1,9 @@
+Here's your updated introduction:
+
+- 👋 Hi, I’m @sohaibkhan-007
+- 👀 I’m interested in coding, Java, Spring Boot, server-side programming, DSA, and reading books.
+- 🌱 I’m currently learning Docker and Kubernetes.
+- 💞️ I’m looking to collaborate on backend projects.
+- 📫 How to reach me: sohaibkhanworkmail@gmail.com, [X](https://x.com/sohaibkhan27843), [LeetCode](https://leetcode.com/u/sohaib_khan/), [LinkedIn](https://www.linkedin.com/in/sohaib-khan-72715a256/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love nature.
