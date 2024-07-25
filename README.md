@@ -1,5 +1,3 @@
-Here's your updated introduction:
-
 - 👋 Hi, I’m @sohaibkhan-007
 - 👀 I’m interested in coding, Java, Spring Boot, server-side programming, DSA, and reading books.
 - 🌱 I’m currently learning Docker and Kubernetes.
